@@ -1,0 +1,282 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "The Best Variety in Old Time Radio on the Internet!",
+          "examplePhrases": [
+            "Alexa play old time radio u. s. a.",
+            "Alexa open old time radio u. s. a.",
+            "Alexa launch old time radio u. s. a."
+          ],
+          "keywords": [
+            "old",
+            "time",
+            "radio",
+            "otr",
+            "old",
+            "time",
+            "radio",
+            "dramas",
+            "old",
+            "time",
+            "radio",
+            "mysteries",
+            "old",
+            "time",
+            "radio",
+            "detectives",
+            "old",
+            "time",
+            "radio",
+            "horror",
+            "old",
+            "time",
+            "radio",
+            "comedies"
+          ],
+          "name": "Old Time Radio USA",
+          "description": "Established in 1999, Old Time Radio USA is a nostalgic journey back to the golden age of radio. It features a rich collection of classic radio shows from the 1930s to the 1960s, including dramas, comedies, mysteries, and more. This station brings the charm and entertainment of yesteryear to modern audiences, allowing listeners to experience the magic of vintage radio broadcasts. Whether you\u0027re a long-time fan or new to old time radio, Old Time Radio USA offers an escape into the past. Brought to you by the WOTR Radio Network.",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "updatesDescription": "Updated Listening URL",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },
+        "en-CA": {
+          "summary": "The Best Variety in Old Time Radio on the Internet!",
+          "examplePhrases": [
+            "Alexa play old time radio u. s. a.",
+            "Alexa open old time radio u. s. a.",
+            "Alexa launch old time radio u. s. a."
+          ],
+          "keywords": [
+            "old",
+            "time",
+            "radio",
+            "otr",
+            "old",
+            "time",
+            "radio",
+            "dramas",
+            "old",
+            "time",
+            "radio",
+            "mysteries",
+            "old",
+            "time",
+            "radio",
+            "detectives",
+            "old",
+            "time",
+            "radio",
+            "horror",
+            "old",
+            "time",
+            "radio",
+            "comedies"
+          ],
+          "name": "Old Time Radio USA",
+          "description": "Established in 1999, Old Time Radio USA is a nostalgic journey back to the golden age of radio. It features a rich collection of classic radio shows from the 1930s to the 1960s, including dramas, comedies, mysteries, and more. This station brings the charm and entertainment of yesteryear to modern audiences, allowing listeners to experience the magic of vintage radio broadcasts. Whether you\u0027re a long-time fan or new to old time radio, Old Time Radio USA offers an escape into the past. Brought to you by the WOTR Radio Network.",
+          "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
+          "updatesDescription": "Updated Listening URL",
+          "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
+        },
+        "en-IN": {
+          "summary": "The Best Variety in Old Time Radio on the Internet!",
+          "examplePhrases": [
+            "Alexa play old time radio u. s. a.",
+            "Alexa open old time radio u. s. a.",
+            "Alexa launch old time radio u. s. a."
+          ],
+          "keywords": [
+            "old",
+            "time",
+            "radio",
+            "otr",
+            "old",
+            "time",
+            "radio",
+            "dramas",
+            "old",
+            "time",
+            "radio",
+            "mysteries",
+            "old",
+            "time",
+            "radio",
+            "detectives",
+            "old",
+            "time",
+            "radio",
+            "horror",
+            "old",
+            "time",
+            "radio",
+            "comedies"
+          ],
+          "name": "Old Time Radio USA",
+          "description": "Established in 1999, Old Time Radio USA is a nostalgic journey back to the golden age of radio. It features a rich collection of classic radio shows from the 1930s to the 1960s, including dramas, comedies, mysteries, and more. This station brings the charm and entertainment of yesteryear to modern audiences, allowing listeners to experience the magic of vintage radio broadcasts. Whether you\u0027re a long-time fan or new to old time radio, Old Time Radio USA offers an escape into the past. Brought to you by the WOTR Radio Network.",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "updatesDescription": "Updated Listening URL",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        },
+        "en-AU": {
+          "summary": "The Best Variety in Old Time Radio on the Internet!",
+          "examplePhrases": [
+            "Alexa play old time radio u. s. a.",
+            "Alexa open old time radio u. s. a.",
+            "Alexa launch old time radio u. s. a."
+          ],
+          "keywords": [
+            "old",
+            "time",
+            "radio",
+            "otr",
+            "old",
+            "time",
+            "radio",
+            "dramas",
+            "old",
+            "time",
+            "radio",
+            "mysteries",
+            "old",
+            "time",
+            "radio",
+            "detectives",
+            "old",
+            "time",
+            "radio",
+            "horror",
+            "old",
+            "time",
+            "radio",
+            "comedies"
+          ],
+          "name": "Old Time Radio USA",
+          "description": "Established in 1999, Old Time Radio USA is a nostalgic journey back to the golden age of radio. It features a rich collection of classic radio shows from the 1930s to the 1960s, including dramas, comedies, mysteries, and more. This station brings the charm and entertainment of yesteryear to modern audiences, allowing listeners to experience the magic of vintage radio broadcasts. Whether you\u0027re a long-time fan or new to old time radio, Old Time Radio USA offers an escape into the past. Brought to you by the WOTR Radio Network.",
+          "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
+          "updatesDescription": "Updated Listening URL",
+          "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
+        },
+        "en-GB": {
+          "summary": "The Best Variety in Old Time Radio on the Internet!",
+          "examplePhrases": [
+            "Alexa play old time radio u. s. a.",
+            "Alexa open old time radio u. s. a.",
+            "Alexa launch old time radio u. s. a."
+          ],
+          "keywords": [
+            "old",
+            "time",
+            "radio",
+            "otr",
+            "old",
+            "time",
+            "radio",
+            "dramas",
+            "old",
+            "time",
+            "radio",
+            "mysteries",
+            "old",
+            "time",
+            "radio",
+            "detectives",
+            "old",
+            "time",
+            "radio",
+            "horror",
+            "old",
+            "time",
+            "radio",
+            "comedies"
+          ],
+          "name": "Old Time Radio USA",
+          "description": "Established in 1999, Old Time Radio USA is a nostalgic journey back to the golden age of radio. It features a rich collection of classic radio shows from the 1930s to the 1960s, including dramas, comedies, mysteries, and more. This station brings the charm and entertainment of yesteryear to modern audiences, allowing listeners to experience the magic of vintage radio broadcasts. Whether you\u0027re a long-time fan or new to old time radio, Old Time Radio USA offers an escape into the past. Brought to you by the WOTR Radio Network.",
+          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
+          "updatesDescription": "Updated Listening URL",
+          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "{\"ask_dist_username\":\"\",\"ask_dist_password\":\"\",\"ask_dist_testing_instructions\":\"No special instructions.\"}",
+      "category": "RADIO",
+      "automaticClonedLocale": {
+        "locales": [
+          {
+            "source": "en-US"
+          }
+        ]
+      },
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:414063721115:function:4d003810-33d2-4ffb-99ef-acde1c7d6823:Release_1"
+        },
+        "interfaces": [
+          {
+            "type": "AUDIO_PLAYER"
+          }
+        ],
+        "locales": {},
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:414063721115:function:4d003810-33d2-4ffb-99ef-acde1c7d6823:Release_1"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:414063721115:function:4d003810-33d2-4ffb-99ef-acde1c7d6823:Release_1"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:414063721115:function:4d003810-33d2-4ffb-99ef-acde1c7d6823:Release_1"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "permissions": [],
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {
+          "termsOfUseUrl": "https://www.wotrradionetwork.com",
+          "privacyPolicyUrl": "https://www.wotrradionetwork.com"
+        },
+        "en-CA": {
+          "termsOfUseUrl": "https://www.wotrradionetwork.com",
+          "privacyPolicyUrl": "https://www.wotrradionetwork.com"
+        },
+        "en-IN": {
+          "termsOfUseUrl": "https://www.wotrradionetwork.com",
+          "privacyPolicyUrl": "https://www.wotrradionetwork.com"
+        },
+        "en-AU": {
+          "termsOfUseUrl": "https://www.wotrradionetwork.com",
+          "privacyPolicyUrl": "https://www.wotrradionetwork.com"
+        },
+        "en-GB": {
+          "termsOfUseUrl": "https://www.wotrradionetwork.com",
+          "privacyPolicyUrl": "https://www.wotrradionetwork.com"
+        }
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "shoppingKit": {
+        "isShoppingActionsEnabled": false,
+        "isAmazonAssociatesOnAlexaEnabled": false
+      },
+      "usesPersonalInfo": false
+    }
+  }
+}
